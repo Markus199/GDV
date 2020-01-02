@@ -1,0 +1,233 @@
+Fachrichtung;Jahr;name;Dichte;Einwohner;Arzt
+Allgemeinmedizin;2015;Ludwigsvorstadt-Isarvorstadt;916.1;54049;59
+Allgemeinmedizin;2016;Ludwigsvorstadt-Isarvorstadt;885.7;54915;62
+Allgemeinmedizin;2012;Ludwigsvorstadt-Isarvorstadt;871.2;49657;57
+Allgemeinmedizin;2010;Ludwigsvorstadt-Isarvorstadt;845.7;47357;56
+Allgemeinmedizin;2013;Ludwigsvorstadt-Isarvorstadt;843.7;50620;60
+Allgemeinmedizin;2011;Ludwigsvorstadt-Isarvorstadt;831.6;48231;58
+Allgemeinmedizin;2017;Ludwigsvorstadt-Isarvorstadt;819.6;51632;63
+Allgemeinmedizin;2014;Ludwigsvorstadt-Isarvorstadt;745.4;52177;70
+Allgemeinmedizin;2014;Altstadt-Lehel;433.5;20806;48
+Allgemeinmedizin;2017;Altstadt-Lehel;367.1;20926;57
+Allgemeinmedizin;2016;Altstadt-Lehel;363.6;21454;59
+Allgemeinmedizin;2013;Hadern;3496.1;48945;14
+Allgemeinmedizin;2017;Sendling-Westpark;3493.3;100068;41
+Allgemeinmedizin;2012;Altstadt-Lehel;339.8;20048;59
+Allgemeinmedizin;2010;Altstadt-Lehel;331.2;19207;58
+Allgemeinmedizin;2012;Hadern;3196.6;47949;15
+Allgemeinmedizin;2013;Altstadt-Lehel;319.1;20422;64
+Allgemeinmedizin;2011;Hadern;3163.9;47459;15
+Allgemeinmedizin;2015;Hadern;3141.1;50257;16
+Allgemeinmedizin;2014;Hadern;3117.1;49874;16
+Allgemeinmedizin;2016;Sendling-Westpark;3114.4;100404;43
+Allgemeinmedizin;2017;Hadern;3101.6;49626;16
+Allgemeinmedizin;2015;Sendling-Westpark;3073.6;99277;44
+Allgemeinmedizin;2016;Giesing;3043.6;54784;18
+Allgemeinmedizin;2017;Berg am Laim;3038.8;45582;15
+Allgemeinmedizin;2016;Hadern;2974.5;50567;17
+Allgemeinmedizin;2014;Sendling-Westpark;2972.9;96907;41
+Allgemeinmedizin;2014;Giesing;2930.2;52743;18
+Allgemeinmedizin;2015;Giesing;2863.3;54402;19
+Allgemeinmedizin;2017;Giesing;2838.8;53937;19
+Allgemeinmedizin;2016;Moosach;2834.7;53859;19
+Allgemeinmedizin;2014;Moosach;2771.4;52657;19
+Allgemeinmedizin;2010;Hadern;2755.9;46851;17
+Allgemeinmedizin;2017;Allach-Untermenzing;2723.1;32677;12
+Allgemeinmedizin;2013;Giesing;2710.5;51499;19
+Allgemeinmedizin;2010;Moosach;2690.1;48421;18
+Allgemeinmedizin;2016;Berg am Laim;2685.6;45655;17
+Allgemeinmedizin;2017;Moosach;2683.1;53662;20
+Allgemeinmedizin;2011;Giesing;2666.1;50656;19
+Allgemeinmedizin;2015;Moosach;2663.1;53261;20
+Allgemeinmedizin;2013;Sendling-Westpark;2638.3;95358;44
+Allgemeinmedizin;2014;Allach-Untermenzing;2612.8;31353;12
+Allgemeinmedizin;2011;Moosach;2599.2;49384;19
+Allgemeinmedizin;2012;Sendling-Westpark;2597.7;94119;47
+Allgemeinmedizin;2013;Allach-Untermenzing;2561.4;30737;12
+Allgemeinmedizin;2012;Giesing;2560.1;51201;20
+Allgemeinmedizin;2012;Allach-Untermenzing;2532.8;30393;12
+Allgemeinmedizin;2014;Trudering-Riem;2520.9;68063;27
+Allgemeinmedizin;2015;Milbertshofen-Am Hart;2516.3;75488;30
+Allgemeinmedizin;2012;Moosach;2512.7;50253;20
+Allgemeinmedizin;2014;Schwabing-Freimann;2475.9;71802;29
+Allgemeinmedizin;2011;Allach-Untermenzing;2474.4;29693;12
+Allgemeinmedizin;2016;Feldmoching-Hasenbergl;2470.6;61764;25
+Allgemeinmedizin;2016;Trudering-Riem;2463.7;71448;29
+Allgemeinmedizin;2013;Moosach;2454.1;51537;21
+Allgemeinmedizin;2010;Giesing;2451.5;49030;20
+Allgemeinmedizin;2015;Ramersdorf-Perlach;2442.9;112371;46
+Allgemeinmedizin;2017;Feldmoching-Hasenbergl;2437.3;60933;25
+Allgemeinmedizin;2014;Milbertshofen-Am Hart;2408.6;74667;31
+Allgemeinmedizin;2015;Trudering-Riem;2407.9;69830;29
+Allgemeinmedizin;2013;Trudering-Riem;2393.2;67009;28
+Allgemeinmedizin;2013;Berg am Laim;2392.7;43068;18
+Allgemeinmedizin;2017;Pasing;2390.3;37049;15
+Allgemeinmedizin;2013;Feldmoching-Hasenbergl;2375.6;59391;25
+Allgemeinmedizin;2015;Berg am Laim;2370.3;45035;19
+Allgemeinmedizin;2015;Feldmoching-Hasenbergl;2366.7;61534;26
+Allgemeinmedizin;2012;Berg am Laim;2350.7;42313;18
+Allgemeinmedizin;2012;Feldmoching-Hasenbergl;2329.8;58245;25
+Allgemeinmedizin;2012;Ramersdorf-Perlach;2329.7;107164;46
+Allgemeinmedizin;2016;Ramersdorf-Perlach;2324.5;113898;49
+Allgemeinmedizin;2011;Sendling-Westpark;2316.1;92273;49
+Allgemeinmedizin;2016;Milbertshofen-Am Hart;2310.8;76255;33
+Allgemeinmedizin;2016;Allach-Untermenzing;2303.4;32248;14
+Allgemeinmedizin;2011;Berg am Laim;2296.8;41342;18
+Allgemeinmedizin;2014;Ramersdorf-Perlach;2293.7;110099;48
+Allgemeinmedizin;2015;Pasing;2291.3;36660;16
+Allgemeinmedizin;2015;Allach-Untermenzing;2277.3;31882;14
+Allgemeinmedizin;2012;Trudering-Riem;2271.3;65869;29
+Allgemeinmedizin;2012;Milbertshofen-Am Hart;2265.8;72506;32
+Allgemeinmedizin;2013;Ramersdorf-Perlach;2255.1;108244;48
+Allgemeinmedizin;2011;Ramersdorf-Perlach;2253.2;105900;47
+Allgemeinmedizin;2010;Berg am Laim;2252.8;40550;18
+Allgemeinmedizin;2013;Milbertshofen-Am Hart;2230.8;73617;33
+Allgemeinmedizin;2013;Thalkirchen, Obersendling;2214.4;30263;14
+Allgemeinmedizin;2016;Schwabing-Freimann;2205.4;77188;35
+Allgemeinmedizin;2011;Milbertshofen-Am Hart;2202.2;70470;32
+Allgemeinmedizin;2013;Schwabing-West;2196.4;65892;30
+Allgemeinmedizin;2011;Thalkirchen, Obersendling;2191.5;28489;13
+Allgemeinmedizin;2012;Thalkirchen, Obersendling;2181.8;29090;13
+Allgemeinmedizin;2014;Pasing;2178.2;35940;17
+Allgemeinmedizin;2017;Thalkirchen, Obersendling;2171.7;31851;15
+Allgemeinmedizin;2011;Trudering-Riem;2166.1;64983;30
+Allgemeinmedizin;2016;Neuhausen;2163.9;49769;23
+Allgemeinmedizin;2014;Feldmoching-Hasenbergl;2152.2;60262;28
+Allgemeinmedizin;2015;Schwabing-Freimann;2143.4;75020;35
+Allgemeinmedizin;2014;Thalkirchen, Obersendling;2125.9;30470;14
+Allgemeinmedizin;2017;Schwabing-Freimann;2120.6;76341;36
+Allgemeinmedizin;2011;Feldmoching-Hasenbergl;2117.9;57183;27
+Allgemeinmedizin;2013;Schwabing-Freimann;2111.4;69676;33
+Allgemeinmedizin;2010;Sendling-Westpark;2099.8;91062;51
+Allgemeinmedizin;2017;Neuhausen;2096.2;49260;24
+Allgemeinmedizin;2010;Trudering-Riem;2091.9;62756;30
+Allgemeinmedizin;2016;Thalkirchen, Obersendling;2091.3;32066;15
+Allgemeinmedizin;2010;Thalkirchen, Obersendling;2089.6;27861;13
+Allgemeinmedizin;2014;Schwabing-West;2033.2;67094;33
+Allgemeinmedizin;2010;Schwabing-West;2027.6;62856;31
+Allgemeinmedizin;2012;Schwabing-West;2024.1;64770;32
+Allgemeinmedizin;2013;Aubing-Lochhausen-Langwied;2014.5;42305;21
+Allgemeinmedizin;2017;Schwabing-West;2007.8;68265;34
+Allgemeinmedizin;2010;Feldmoching-Hasenbergl;2004.6;56130;28
+Allgemeinmedizin;2015;Thalkirchen, Obersendling;1991.5;31200;16
+Allgemeinmedizin;2011;Aubing-Lochhausen-Langwied;1989.5;39789;20
+Allgemeinmedizin;2016;Aubing-Lochhausen-Langwied;1981.4;45571;23
+Allgemeinmedizin;2013;Pasing;1966.2;35391;18
+Allgemeinmedizin;2017;Stadt MÅnchen;1956.5;1526056;780
+Allgemeinmedizin;2017;Bogenhausen;1953.9;85971;44
+Allgemeinmedizin;2014;Aubing-Lochhausen-Langwied;1948.1;42859;22
+Allgemeinmedizin;2010;Aubing-Lochhausen-Langwied;1943.2;38863;20
+Allgemeinmedizin;2016;Stadt MÅnchen;1921.4;1542860;803
+Allgemeinmedizin;2015;Aubing-Lochhausen-Langwied;1899.2;43682;23
+Allgemeinmedizin;2015;Stadt MÅnchen;1892.6;1521678;804
+Allgemeinmedizin;2017;Harlaching;1878.6;52600;28
+Allgemeinmedizin;2014;Bogenhausen;1864.4;83900;45
+Allgemeinmedizin;2016;Harlaching;1863.8;54050;29
+Allgemeinmedizin;2017;Aubing-Lochhausen-Langwied;1855.4;46385;25
+Allgemeinmedizin;2013;Harlaching;1854.9;51937;28
+Allgemeinmedizin;2011;Schwabing-Freimann;1852.9;66706;36
+Allgemeinmedizin;2017;Au-Haidhausen;1846.6;60937;33
+Allgemeinmedizin;2012;Pasing;1823.6;34647;19
+Allgemeinmedizin;2016;Au-Haidhausen;1823.5;61999;34
+Allgemeinmedizin;2014;Neuhausen;1805.9;48761;27
+Allgemeinmedizin;2013;Stadt MÅnchen;1795.3;1464962;816
+Allgemeinmedizin;2015;Harlaching;1779.2;53377;30
+Allgemeinmedizin;2014;Schwanthalerhîhe;1769.6;30083;17
+Allgemeinmedizin;2017;Maxvorstadt;1769.3;51311;29
+Allgemeinmedizin;2012;Stadt MÅnchen;1757.6;1439474;819
+Allgemeinmedizin;2013;Schwanthalerhîhe;1744.9;29663;17
+Allgemeinmedizin;2016;Bogenhausen;1743.3;87164;50
+Allgemeinmedizin;2015;Bogenhausen;1718.9;85947;50
+Allgemeinmedizin;2010;Allach-Untermenzing;1715.4;29161;17
+Allgemeinmedizin;2011;Stadt MÅnchen;1705.9;1410741;827
+Allgemeinmedizin;2013;Neuhausen;1682.6;47953;29
+Allgemeinmedizin;2016;Maxvorstadt;1670.1;53443;32
+Allgemeinmedizin;2011;Pasing;1655.6;33939;20
+Allgemeinmedizin;2017;Schwanthalerhîhe;1640.8;29535;18
+Allgemeinmedizin;2011;Harlaching;1627.6;50455;31
+Allgemeinmedizin;2010;Stadt MÅnchen;1624.3;1382273;851
+Allgemeinmedizin;2011;Neuhausen;1616.5;46069;29
+Allgemeinmedizin;2012;Bogenhausen;1616.3;80816;50
+Allgemeinmedizin;2013;Bogenhausen;1610.6;82138;51
+Allgemeinmedizin;2011;Bogenhausen;1583.5;79175;50
+Allgemeinmedizin;2010;Bogenhausen;1582.5;77542;49
+Allgemeinmedizin;2010;Pasing;1577.2;33122;21
+Allgemeinmedizin;2015;Au-Haidhausen;1576.8;61495;39
+Allgemeinmedizin;2012;Schwanthalerhîhe;1547.5;29402;19
+Allgemeinmedizin;2012;Laim;1524.5;53359;35
+Allgemeinmedizin;2014;Laim;1519.8;54714;36
+Allgemeinmedizin;2016;Schwanthalerhîhe;1514.1;30282;20
+Allgemeinmedizin;2011;Schwanthalerhîhe;1509.4;28678;19
+Allgemeinmedizin;2014;Maxvorstadt;1502.1;52575;35
+Allgemeinmedizin;2013;Laim;1500.8;54030;36
+Allgemeinmedizin;2015;Laim;1496.6;55374;37
+Allgemeinmedizin;2015;Maxvorstadt;1492.9;53743;36
+Allgemeinmedizin;2017;Laim;1481.1;56281;38
+Allgemeinmedizin;2010;Schwanthalerhîhe;1473.9;28004;19
+Allgemeinmedizin;2011;Laim;1464.8;52733;36
+Allgemeinmedizin;2010;Harlaching;1455.9;49502;34
+Allgemeinmedizin;2016;Laim;1444.5;56335;39
+Allgemeinmedizin;2010;Neuhausen;1440.1;44643;31
+Allgemeinmedizin;2014;Au-Haidhausen;1412.9;60756;43
+Allgemeinmedizin;2012;Au-Haidhausen;1401.9;58881;42
+Allgemeinmedizin;2013;Maxvorstadt;1395.7;51642;37
+Allgemeinmedizin;2013;Au-Haidhausen;1389.6;59752;43
+Allgemeinmedizin;2012;Maxvorstadt;1338.9;50877;38
+Allgemeinmedizin;2011;Au-Haidhausen;1332.5;57297;43
+Allgemeinmedizin;2011;Maxvorstadt;1269.2;49498;39
+Allgemeinmedizin;2010;Maxvorstadt;1253.2;48875;39
+Allgemeinmedizin;2010;Au-Haidhausen;1251.6;56322;45
+Allgemeinmedizin;2017;Milbertshofen-Am Hart;2669.0;74731;28
+Allgemeinmedizin;2017;Trudering-Riem;2483.0;72006;29
+Allgemeinmedizin;2017;Ramersdorf-Perlach;2385.0;114478;48
+Allgemeinmedizin;2015;Schwabing-West;2363.0;68527;29
+Allgemeinmedizin;2016;Pasing;2326.0;37216;16
+Allgemeinmedizin;2014;Berg am Laim;2317.0;44022;19
+Allgemeinmedizin;2010;Ramersdorf-Perlach;2182.0;104737;48
+Allgemeinmedizin;2016;Schwabing-West;2169.0;69407;32
+Allgemeinmedizin;2012;Aubing-Lochhausen-Langwied;2164.0;41116;19
+Allgemeinmedizin;2010;Milbertshofen-Am Hart;2090.0;68970;33
+Allgemeinmedizin;2011;Schwabing-West;2053.0;63644;31
+Allgemeinmedizin;2015;Neuhausen;1974.0;49351;25
+Allgemeinmedizin;2012;Schwabing-Freimann;1958.0;68530;35
+Allgemeinmedizin;2014;Stadt MÅnchen;1868.0;1490681;798
+Allgemeinmedizin;2014;Harlaching;1692.0;52452;31
+Allgemeinmedizin;2012;Harlaching;1651.0;51180;31
+Allgemeinmedizin;2010;Schwabing-Freimann;1629.0;65158;40
+Allgemeinmedizin;2015;Schwanthalerhîhe;1599.0;30381;19
+Allgemeinmedizin;2012;Neuhausen;1571.0;47128;30
+Allgemeinmedizin;2010;Laim;1439.0;51805;36
+Allgemeinmedizin;2015;Altstadt-Lehel;384.0;21122;55
+Allgemeinmedizin;2011;Altstadt-Lehel;334.0;19707;59
+Allgemeinmedizin;2016;Nymphenburg;2163.9;49769;23
+Allgemeinmedizin;2017;Nymphenburg;2096.2;49260;24
+Allgemeinmedizin;2014;Nymphenburg;1805.9;48761;27
+Allgemeinmedizin;2013;Nymphenburg;1682.6;47953;29
+Allgemeinmedizin;2011;Nymphenburg;1616.5;46069;29
+Allgemeinmedizin;2010;Nymphenburg;1440.1;44643;31
+Allgemeinmedizin;2015;Nymphenburg;1974.0;49351;25
+Allgemeinmedizin;2012;Nymphenburg;1571.0;47128;30
+Allgemeinmedizin;2017;Obermenzing;2390.3;37049;15
+Allgemeinmedizin;2015;Obermenzing;2291.3;36660;16
+Allgemeinmedizin;2014;Obermenzing;2178.2;35940;17
+Allgemeinmedizin;2013;Obermenzing;1966.2;35391;18
+Allgemeinmedizin;2012;Obermenzing;1823.6;34647;19
+Allgemeinmedizin;2011;Obermenzing;1655.6;33939;20
+Allgemeinmedizin;2010;Obermenzing;1577.2;33122;21
+Allgemeinmedizin;2016;Obermenzing;2326.0;37216;16
+Allgemeinmedizin;2013;Forstenried-FÅrstenried;2214.4;30263;14
+Allgemeinmedizin;2011;Forstenried-FÅrstenried;2191.5;28489;13
+Allgemeinmedizin;2012;Forstenried-FÅrstenried;2181.8;29090;13
+Allgemeinmedizin;2017;Forstenried-FÅrstenried;2171.7;31851;15
+Allgemeinmedizin;2014;Forstenried-FÅrstenried;2125.9;30470;14
+Allgemeinmedizin;2016;Forstenried-FÅrstenried;2091.3;32066;15
+Allgemeinmedizin;2010;Forstenried-FÅrstenried;2089.6;27861;13
+Allgemeinmedizin;2015;Forstenried-FÅrstenried;1991.5;31200;16
+Allgemeinmedizin;2013;Solln;2214.4;30263;14
+Allgemeinmedizin;2011;Solln;2191.5;28489;13
+Allgemeinmedizin;2012;Solln;2181.8;29090;13
+Allgemeinmedizin;2017;Solln;2171.7;31851;15
+Allgemeinmedizin;2014;Solln;2125.9;30470;14
+Allgemeinmedizin;2016;Solln;2091.3;32066;15
+Allgemeinmedizin;2010;Solln;2089.6;27861;13
+Allgemeinmedizin;2015;Solln;1991.5;31200;16
